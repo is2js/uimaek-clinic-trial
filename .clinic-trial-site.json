@@ -1,0 +1,23 @@
+{
+  "format": "clinic-trial-site-v1",
+  "version": "0.1.3",
+  "basePath": "./",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "assets/rpg/local-clinic/clinic-icon.png": "50c8cad46c940656bc98b87be9dd8db5c53b3964dc3fb185741d6b896a561198",
+    "assets/rpg/local-clinic/trial-site.css": "4e65eb44cde56e1a54e4d61e90bf83ec05482c6272b30c30877a0f49bc013083",
+    "assets/rpg/local-clinic/trial-site/branding-source.json": "0123ad94bf840f64068a92a8e910df381a1ab629abf4d6ac913117d1e36f2aec",
+    "assets/rpg/local-clinic/trial-site/clinic-morning-gate.webp": "e8aea5c4c21dd133699a35d83a716eb0aa58c1482c8ff23b61715f64ecb078a8",
+    "assets/rpg/local-clinic/trial-site/preview-source.json": "1f94d7d02b61784788536469a62f18978afdf0ad1a1a8d1b33e40ee3e8d04474",
+    "assets/rpg/local-clinic/trial-site/timer-preview.png": "a413efe135b064c12edfbc07cd59dc8b119f50a9ad5109c5e7edda7b79f043ab",
+    "assets/rpg/ui/brand/medical-needle-r1/apple-touch-icon.png": "fd8036855934a1fce2052e07f6622d207713c3ad4a9bd3435f268e4c131eadae",
+    "assets/rpg/ui/brand/medical-needle-r1/favicon-32.png": "dd6b0e8b28128763652f3315b6e60dbc42638b6a6aa29f00cfa4865dee956d92",
+    "assets/rpg/ui/brand/medical-needle-r1/favicon.ico": "2f303863a9dc399e4ccba21b521ec627fb2b4f4c97bc1f63d318b4c63a0fac6f",
+    "downloads/PvpLocalClinicTrialSetup-0.1.3.exe": "14e267b1863049463078d9d2c00978b85ce599451e0249a8c680c920723dbe46",
+    "downloads/SHA256SUMS.txt": "4b5f84af1fae2fb74da07c93c5262e42c7f9ad9e61a3ba01c6a9bf529477f18e",
+    "index.html": "50828e5b539b721f9c06ae36146f6bab08ac1c8423aede2c960daf1f5f82fdf0",
+    "release.json": "a909e2c4584fbc6ca5eef48f3c8beb25d38ca3f3bbb367064e8820baf1f57a94",
+    "src/rpg/local-clinic-download.mjs": "9c7a468e6aa6ceb3f87f18780d1275b09a0d3084ece51b3b87cde157ccd4b1ad",
+    "src/rpg/local-clinic-guide-requests.mjs": "851bbd0dfad11fee82e9051fb6950a3fe2700f954435b933bd5602aa6c60381b"
+  }
+}

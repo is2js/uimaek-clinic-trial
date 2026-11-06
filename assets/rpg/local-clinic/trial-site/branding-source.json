@@ -1,0 +1,14 @@
+{
+  "revision": "intro-clinic-needle-20261107",
+  "scene": {
+    "source": "assets/rpg/ui/intro/v5-medical-scenery/clinic-morning-gate.webp",
+    "sha256": "e8aea5c4c21dd133699a35d83a716eb0aa58c1482c8ff23b61715f64ecb078a8",
+    "operation": "바이트 변경 없이 복사. 게임 인트로의 소개용 일러스트 재사용"
+  },
+  "favicon": {
+    "sourcePartial": "templates/partials/rpg-favicon.html",
+    "sourceDirectory": "assets/rpg/ui/brand/medical-needle-r1",
+    "operation": "실제 RPG의 favicon.ico, favicon-32.png, apple-touch-icon.png 재사용. 앱 아이콘도 같은 원본 ICO와 favicon-192.png를 복사"
+  },
+  "productionDataIncluded": false
+}

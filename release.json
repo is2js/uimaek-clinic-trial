@@ -1,0 +1,20 @@
+{
+  "version": "0.1.3",
+  "channel": "trial",
+  "protocolVersion": "1.1",
+  "runtime": {
+    "mode": "desktop",
+    "service": false,
+    "automaticStart": false
+  },
+  "platform": "windows",
+  "arch": "x64",
+  "filename": "PvpLocalClinicTrialSetup-0.1.3.exe",
+  "sizeBytes": 54845280,
+  "sha256": "14e267b1863049463078d9d2c00978b85ce599451e0249a8c680c920723dbe46",
+  "signed": false,
+  "downloads": {
+    "installer": "downloads/PvpLocalClinicTrialSetup-0.1.3.exe",
+    "checksums": "downloads/SHA256SUMS.txt"
+  }
+}
