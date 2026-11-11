@@ -10,7 +10,7 @@
 | Windows x64 시험판 설치 파일 | [0.1.3 설치 파일 받기](https://is2js.github.io/uimaek-clinic-trial/downloads/PvpLocalClinicTrialSetup-0.1.3.exe) |
 | 설치 파일의 확인용 해시 | [SHA-256 목록 보기](https://is2js.github.io/uimaek-clinic-trial/downloads/SHA256SUMS.txt) |
 
-설치본을 사용하는 데 Python이나 개발 도구는 필요하지 않습니다. 처음 사용하는 분은 다운로드 전에 **[설치와 첫 설정 안내](https://is2js.github.io/uimaek-clinic-trial/#start)**를 함께 읽어 주세요.
+설치본을 사용하는 데 Python이나 개발 도구는 필요하지 않습니다. 처음 사용하는 분은 다운로드 전에 [설치와 첫 설정 안내](https://is2js.github.io/uimaek-clinic-trial/#start)를 함께 읽어 주세요.
 
 ## 화면 미리보기
 
@@ -27,7 +27,7 @@
 
 ## 설치하고 사용하기
 
-1. **[다운로드·사용서](https://is2js.github.io/uimaek-clinic-trial/)**에서 시험판의 파일 정보와 안내를 확인하고 Windows x64 설치 파일을 받은 뒤 실행합니다.
+1. [다운로드·사용서](https://is2js.github.io/uimaek-clinic-trial/)에서 시험판의 파일 정보와 안내를 확인하고 Windows x64 설치 파일을 받은 뒤 실행합니다.
 2. 앱의 안내에 따라 진료실 이름, 관리자 ID와 PIN을 설정하고 **백업 복구 암호를 별도로 보관**합니다.
 3. 서버 준비 상태를 확인하고 **진료 화면 열기**를 누릅니다. 처음에는 진료실 인증서 등록 안내를 읽고 직접 동의합니다.
 4. 설정한 관리자 ID와 PIN으로 로그인한 뒤 베드와 치료 항목을 확인합니다.
